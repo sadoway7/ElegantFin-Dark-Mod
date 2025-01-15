@@ -4,14 +4,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
 :root {
---darkerGradientPoint: #0f172a;
---darkerGradientPointAlpha: rgba(15, 23, 42, 0.85);
---lighterGradientPoint: #1e293b;
---borderColor: rgb(71, 85, 105);
+--darkerGradientPoint: #040506;
+--darkerGradientPointAlpha: rgba(4, 5, 6, 0.85);
+--lighterGradientPoint: #0c0f13;
+--borderColor: rgb(45, 48, 52);
 --lighterBorderColor: rgb(255 255 255 / 20%);
---headerColor: rgba(30, 41, 59, 0.8);
---drawerColor: rgba(30, 41, 59, 0.9);
---selectorBackgroundColor: rgb(51, 65, 85);
+--headerColor: rgba(12, 15, 19, 0.8);
+--drawerColor: rgba(12, 15, 19, 0.9);
+--selectorBackgroundColor: rgb(28, 32, 38);
 --btnDeleteColor: rgb(185, 28, 28);
 --btnDeleteBorderColor: rgb(239, 68, 68);
 --btnSubmitColor: rgb(67, 56, 202);
@@ -22,7 +22,7 @@
 --dimTextColor: rgb(148, 163, 184);
 --activeColorAlpha: rgb(167 139 250 / 40%);
 --activeColor: rgb(109 40 217);
---tableBodyColor: rgb(30 41 59 / 1);
+--tableBodyColor: rgb(12 15 19 / 1);
 --backgroundGradient: linear-gradient(0deg, var(--darkerGradientPoint) 35%, var(--lighterGradientPoint));
 --cardBackgroundGradient: linear-gradient(0deg, var(--darkerGradientPoint), var(--lighterGradientPoint) 25%);
 --hoverGradientA: linear-gradient(130deg, rgb(255 255 255 / 35%) 20%, rgb(255 255 255 / 15%) 40%);
