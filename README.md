@@ -1,3 +1,7 @@
+DARK MOD - @import url("https://rawcdn.githack.com/sadoway7/ElegantFin-mod/refs/heads/main/Theme/ElegantFin-DarkMode.css");
+(INCLUDED NEW LOGIN STYLES)
+
+PLEASE SEE ORIGINAL AUTHRO HERE BELOW
 # ElegantFin Theme
 This is a Jellyfin theme inspired from JellySeerr to improve the overall look and experience with various fixes to the UI and behaviour.
 
