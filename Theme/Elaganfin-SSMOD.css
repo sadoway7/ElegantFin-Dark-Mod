@@ -1,4 +1,4 @@
-* ElegantFin Theme for Jellyfin by lscambo13 */
+n Theme for Jellyfin by lscambo13 */
 
 @import url("https://cdn.jsdelivr.net/gh/prayag17/Jellyfin-Icons/round.css");
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
@@ -70,7 +70,7 @@ html {
 
 .emby-button.show-focus:focus,
 .paper-icon-button-light.show-focus:focus {
-    background: #131417;
+    background: #2f3a53;
     outline: var(--borderWidth) rgb(255 255 255) solid !important;
     outline-offset: calc(-1*var(--borderWidth));
     color: #fff;
@@ -1614,30 +1614,6 @@ ul.MuiList-root.MuiMenu-list.MuiList-dense>div:first-child {
     background: var(--activeColor);
 }
 
-
-/* Import Montserrat Font 
-
-
-
-
-
-as
-
-
-as
-
-as
-
-as
-
-
-as
-
-as
-
-
-
-*/
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
 
 /* Login Page Base Styles */
@@ -1818,17 +1794,3 @@ as
         font-size: 24px;
     }
 }
-
-
-/* other stuff */
-/* other stuff */
-/* other stuff */
-/* other stuff */
-/* other stuff */
-/* other stuff */
-/* other stuff */
-/* other stuff */
-/* other stuff */
-/* other stuff */
-
-@import url("https://cdn.jsdelivr.net/gh/tedhinklater/finality@main/finality.css");
