@@ -1795,3 +1795,17 @@ ul.MuiList-root.MuiMenu-list.MuiList-dense>div:first-child {
         font-size: 24px;
     }
 }
+
+
+/* login wallpaper */
+@import url("https://rawcdn.githack.com/sadoway7/ElegantFin-mod/refs/heads/main/Theme/ElegantFin-DarkMode.css");
+
+#loginPage {
+
+    background: url(https://www.baltana.com/download/67408/2560x1440/crop/dark-minimalist-wallpaper-3840x2160-64586.jpg), radial-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)) !important;
+
+    background-size: cover !important;
+
+    background-blend-mode: overlay;  !important;
+
+}
